@@ -16,13 +16,13 @@ Following table contains both the checkpoint links and corresponding mmseg confi
 
 | Model Name | Link |
 |------------|------|
-| Swin Transofermer    | [Link](https://drive.google.com/drive/folders/149fCOcNVqmKJ4VBXc4MG64Bxo86Vf1Im?usp=drive_link) |
+| Swin Transformer    | [Link](https://drive.google.com/drive/folders/149fCOcNVqmKJ4VBXc4MG64Bxo86Vf1Im?usp=drive_link) |
 
 
 
 **Tutorial**
 
-Troughout the training and experimenting process is done with [mmseg](https://github.com/open-mmlab/mmsegmentation) project. You can find relevant tutorials on how to use mmseg on it's official repository. For this repo, we will assume you already know what a mmseg config is and how it is used. 
+Throughout the training and experimentation process, we use [mmseg](https://github.com/open-mmlab/mmsegmentation) project. You can find relevant tutorials in its official repository. For this repo, we assume you already know what an mmseg config is and how it is used. 
 
 1. Setup:
 
